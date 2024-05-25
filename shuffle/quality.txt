@@ -1,0 +1,20 @@
+N	Quality
+1	0.764626
+2	0.654422
+3	0.576190
+4	0.554422
+5	0.536054
+6	0.504082
+7	0.506803
+8	0.489796
+9	0.502041
+10	0.506803
+11	0.500680
+12	0.510884
+13	0.500000
+14	0.497959
+15	0.506803
+
+To achieve a good shuffle, at least 4 shuffles should be performed to bring the
+quality to within ±10% of the target quality of 0.5. From testing, the best
+number of shuffles is 13, while the worst is only 1.
